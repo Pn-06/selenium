@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[ <a  href =  " C:\Users\HP\eclipse-workspace\saucelabdemo\screenshot\title.png " > link </a> ]]>
+    </line>
+    <line>
+      <![CDATA[....... Title got verified .........]]>
+    </line>
+    <line>
+      <![CDATA[......... Logged in successfully ..........]]>
+    </line>
+    <line>
+      <![CDATA[ <a  href =  " C:\Users\HP\eclipse-workspace\saucelabdemo\screenshot\verify_page_url.png " > link </a> ]]>
+    </line>
+    <line>
+      <![CDATA[ getproductName function ......]]>
+    </line>
+    <line>
+      <![CDATA[6 got added to cart ......]]>
+    </line>
+    <line>
+      <![CDATA[ <a  href =  " C:\Users\HP\eclipse-workspace\saucelabdemo\screenshot\addtocart.png " > link </a> ]]>
+    </line>
+    <line>
+      <![CDATA[ product got added to cart ......]]>
+    </line>
+    <line>
+      <![CDATA[..... Clicked on shopping cart .....]]>
+    </line>
+    <line>
+      <![CDATA[ <a  href =  " C:\Users\HP\eclipse-workspace\saucelabdemo\screenshot\ShoppingCart.png " > link </a> ]]>
+    </line>
+    <line>
+      <![CDATA[ getproductName function() ......]]>
+    </line>
+    <line>
+      <![CDATA[.... name got matched ..... ]]>
+    </line>
+    <line>
+      <![CDATA[ getproductName function() ......]]>
+    </line>
+    <line>
+      <![CDATA[.... name got matched ..... ]]>
+    </line>
+    <line>
+      <![CDATA[ getproductName function() ......]]>
+    </line>
+    <line>
+      <![CDATA[.... name got matched ..... ]]>
+    </line>
+    <line>
+      <![CDATA[ getproductName function() ......]]>
+    </line>
+    <line>
+      <![CDATA[.... name got matched ..... ]]>
+    </line>
+    <line>
+      <![CDATA[ getproductName function() ......]]>
+    </line>
+    <line>
+      <![CDATA[.... name got matched ..... ]]>
+    </line>
+    <line>
+      <![CDATA[ getproductName function() ......]]>
+    </line>
+    <line>
+      <![CDATA[.... name got matched ..... ]]>
+    </line>
+    <line>
+      <![CDATA[ <a  href =  " C:\Users\HP\eclipse-workspace\saucelabdemo\screenshot\verifyProductName.png " > link </a> ]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on checkout]]>
+    </line>
+    <line>
+      <![CDATA[ <a  href =  " C:\Users\HP\eclipse-workspace\saucelabdemo\screenshot\clickCheckOut.png " > link </a> ]]>
+    </line>
+    <line>
+      <![CDATA[ ..... user is in checkout page .....]]>
+    </line>
+    <line>
+      <![CDATA[ <a  href =  " C:\Users\HP\eclipse-workspace\saucelabdemo\screenshot\verifyCheckOutPage.png " > link </a> ]]>
+    </line>
+    <line>
+      <![CDATA[ ..... user added checkoutdetails .....]]>
+    </line>
+    <line>
+      <![CDATA[ <a  href =  " C:\Users\HP\eclipse-workspace\saucelabdemo\screenshot\addCheckOutDetails.png " > link </a> ]]>
+    </line>
+    <line>
+      <![CDATA[ ..... user Clicked Continue .....]]>
+    </line>
+    <line>
+      <![CDATA[ <a  href =  " C:\Users\HP\eclipse-workspace\saucelabdemo\screenshot\clickContinue.png " > link </a> ]]>
+    </line>
+    <line>
+      <![CDATA[ <a  href =  " C:\Users\HP\eclipse-workspace\saucelabdemo\screenshot\title.png " > link </a> ]]>
+    </line>
+    <line>
+      <![CDATA[....... Title got verified .........]]>
+    </line>
+    <line>
+      <![CDATA[......... failed to login might be username or password is incorrect .........]]>
+    </line>
+    <line>
+      <![CDATA[ <a  href =  " C:\Users\HP\eclipse-workspace\saucelabdemo\screenshot\verify_page_url.png " > link </a> ]]>
+    </line>
+    <line>
+      <![CDATA[ <a  href =  " C:\Users\HP\eclipse-workspace\saucelabdemo\screenshot\title.png " > link </a> ]]>
+    </line>
+    <line>
+      <![CDATA[....... Title got verified .........]]>
+    </line>
+    <line>
+      <![CDATA[......... Logged in successfully ..........]]>
+    </line>
+    <line>
+      <![CDATA[ <a  href =  " C:\Users\HP\eclipse-workspace\saucelabdemo\screenshot\verify_page_url.png " > link </a> ]]>
+    </line>
+    <line>
+      <![CDATA[ getproductName function() ......]]>
+    </line>
+    <line>
+      <![CDATA[ <a  href =  " C:\Users\HP\eclipse-workspace\saucelabdemo\screenshot\addtocart.png " > link </a> ]]>
+    </line>
+    <line>
+      <![CDATA[ product got added to cart ......]]>
+    </line>
+    <line>
+      <![CDATA[..... Clicked on shopping cart .....]]>
+    </line>
+    <line>
+      <![CDATA[ <a  href =  " C:\Users\HP\eclipse-workspace\saucelabdemo\screenshot\ShoppingCart.png " > link </a> ]]>
+    </line>
+    <line>
+      <![CDATA[ getproductName function() ......]]>
+    </line>
+    <line>
+      <![CDATA[.... name got matched ..... ]]>
+    </line>
+    <line>
+      <![CDATA[ <a  href =  " C:\Users\HP\eclipse-workspace\saucelabdemo\screenshot\verifyProductName.png " > link </a> ]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on checkout]]>
+    </line>
+    <line>
+      <![CDATA[ <a  href =  " C:\Users\HP\eclipse-workspace\saucelabdemo\screenshot\clickCheckOut.png " > link </a> ]]>
+    </line>
+    <line>
+      <![CDATA[ ..... user is in checkout page .....]]>
+    </line>
+    <line>
+      <![CDATA[ <a  href =  " C:\Users\HP\eclipse-workspace\saucelabdemo\screenshot\verifyCheckOutPage.png " > link </a> ]]>
+    </line>
+    <line>
+      <![CDATA[ ..... user added checkoutdetails .....]]>
+    </line>
+    <line>
+      <![CDATA[ <a  href =  " C:\Users\HP\eclipse-workspace\saucelabdemo\screenshot\addCheckOutDetails.png " > link </a> ]]>
+    </line>
+    <line>
+      <![CDATA[ ..... user Clicked Continue .....]]>
+    </line>
+    <line>
+      <![CDATA[ <a  href =  " C:\Users\HP\eclipse-workspace\saucelabdemo\screenshot\clickContinue.png " > link </a> ]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-09-03T21:21:57 IST" name="Suite" finished-at="2023-09-03T21:22:52 IST" duration-ms="54544">
+    <groups>
+    </groups>
+    <test started-at="2023-09-03T21:21:57 IST" name="Test" finished-at="2023-09-03T21:21:57 IST" duration-ms="41">
+    </test> <!-- Test -->
+    <test started-at="2023-09-03T21:21:58 IST" name="multiple_browser" finished-at="2023-09-03T21:22:52 IST" duration-ms="54226">
+      <class name="com.saucelab.qa.testclass.TestClass">
+        <test-method is-config="true" signature="callBrowser(java.lang.String,java.lang.String)[pri:0, instance:com.saucelab.qa.testclass.TestClass@74d1dc36]" started-at="2023-09-03T21:21:58 IST" name="callBrowser" finished-at="2023-09-03T21:22:06 IST" duration-ms="8761" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.saucedemo.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- callBrowser -->
+        <test-method signature="test_user_01()[pri:1, instance:com.saucelab.qa.testclass.TestClass@74d1dc36]" started-at="2023-09-03T21:22:06 IST" name="test_user_01" finished-at="2023-09-03T21:22:21 IST" duration-ms="15043" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ <a  href =  " C:\Users\HP\eclipse-workspace\saucelabdemo\screenshot\title.png " > link </a> ]]>
+            </line>
+            <line>
+              <![CDATA[....... Title got verified .........]]>
+            </line>
+            <line>
+              <![CDATA[......... Logged in successfully ..........]]>
+            </line>
+            <line>
+              <![CDATA[ <a  href =  " C:\Users\HP\eclipse-workspace\saucelabdemo\screenshot\verify_page_url.png " > link </a> ]]>
+            </line>
+            <line>
+              <![CDATA[ getproductName function ......]]>
+            </line>
+            <line>
+              <![CDATA[6 got added to cart ......]]>
+            </line>
+            <line>
+              <![CDATA[ <a  href =  " C:\Users\HP\eclipse-workspace\saucelabdemo\screenshot\addtocart.png " > link </a> ]]>
+            </line>
+            <line>
+              <![CDATA[ product got added to cart ......]]>
+            </line>
+            <line>
+              <![CDATA[..... Clicked on shopping cart .....]]>
+            </line>
+            <line>
+              <![CDATA[ <a  href =  " C:\Users\HP\eclipse-workspace\saucelabdemo\screenshot\ShoppingCart.png " > link </a> ]]>
+            </line>
+            <line>
+              <![CDATA[ getproductName function() ......]]>
+            </line>
+            <line>
+              <![CDATA[.... name got matched ..... ]]>
+            </line>
+            <line>
+              <![CDATA[ getproductName function() ......]]>
+            </line>
+            <line>
+              <![CDATA[.... name got matched ..... ]]>
+            </line>
+            <line>
+              <![CDATA[ getproductName function() ......]]>
+            </line>
+            <line>
+              <![CDATA[.... name got matched ..... ]]>
+            </line>
+            <line>
+              <![CDATA[ getproductName function() ......]]>
+            </line>
+            <line>
+              <![CDATA[.... name got matched ..... ]]>
+            </line>
+            <line>
+              <![CDATA[ getproductName function() ......]]>
+            </line>
+            <line>
+              <![CDATA[.... name got matched ..... ]]>
+            </line>
+            <line>
+              <![CDATA[ getproductName function() ......]]>
+            </line>
+            <line>
+              <![CDATA[.... name got matched ..... ]]>
+            </line>
+            <line>
+              <![CDATA[ <a  href =  " C:\Users\HP\eclipse-workspace\saucelabdemo\screenshot\verifyProductName.png " > link </a> ]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on checkout]]>
+            </line>
+            <line>
+              <![CDATA[ <a  href =  " C:\Users\HP\eclipse-workspace\saucelabdemo\screenshot\clickCheckOut.png " > link </a> ]]>
+            </line>
+            <line>
+              <![CDATA[ ..... user is in checkout page .....]]>
+            </line>
+            <line>
+              <![CDATA[ <a  href =  " C:\Users\HP\eclipse-workspace\saucelabdemo\screenshot\verifyCheckOutPage.png " > link </a> ]]>
+            </line>
+            <line>
+              <![CDATA[ ..... user added checkoutdetails .....]]>
+            </line>
+            <line>
+              <![CDATA[ <a  href =  " C:\Users\HP\eclipse-workspace\saucelabdemo\screenshot\addCheckOutDetails.png " > link </a> ]]>
+            </line>
+            <line>
+              <![CDATA[ ..... user Clicked Continue .....]]>
+            </line>
+            <line>
+              <![CDATA[ <a  href =  " C:\Users\HP\eclipse-workspace\saucelabdemo\screenshot\clickContinue.png " > link </a> ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test_user_01 -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.saucelab.qa.testclass.TestClass@74d1dc36]" started-at="2023-09-03T21:22:21 IST" name="closeBrowser" finished-at="2023-09-03T21:22:22 IST" duration-ms="990" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="callBrowser(java.lang.String,java.lang.String)[pri:0, instance:com.saucelab.qa.testclass.TestClass@74d1dc36]" started-at="2023-09-03T21:22:22 IST" name="callBrowser" finished-at="2023-09-03T21:22:27 IST" duration-ms="4450" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.saucedemo.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- callBrowser -->
+        <test-method signature="test_user_02()[pri:2, instance:com.saucelab.qa.testclass.TestClass@74d1dc36]" started-at="2023-09-03T21:22:27 IST" name="test_user_02" finished-at="2023-09-03T21:22:30 IST" duration-ms="2760" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ <a  href =  " C:\Users\HP\eclipse-workspace\saucelabdemo\screenshot\title.png " > link </a> ]]>
+            </line>
+            <line>
+              <![CDATA[....... Title got verified .........]]>
+            </line>
+            <line>
+              <![CDATA[......... failed to login might be username or password is incorrect .........]]>
+            </line>
+            <line>
+              <![CDATA[ <a  href =  " C:\Users\HP\eclipse-workspace\saucelabdemo\screenshot\verify_page_url.png " > link </a> ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test_user_02 -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.saucelab.qa.testclass.TestClass@74d1dc36]" started-at="2023-09-03T21:22:30 IST" name="closeBrowser" finished-at="2023-09-03T21:22:30 IST" duration-ms="708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="callBrowser(java.lang.String,java.lang.String)[pri:0, instance:com.saucelab.qa.testclass.TestClass@74d1dc36]" started-at="2023-09-03T21:22:30 IST" name="callBrowser" finished-at="2023-09-03T21:22:35 IST" duration-ms="4336" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.saucedemo.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- callBrowser -->
+        <test-method signature="test_user_03()[pri:3, instance:com.saucelab.qa.testclass.TestClass@74d1dc36]" started-at="2023-09-03T21:22:35 IST" name="test_user_03" finished-at="2023-09-03T21:22:51 IST" duration-ms="15992" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ <a  href =  " C:\Users\HP\eclipse-workspace\saucelabdemo\screenshot\title.png " > link </a> ]]>
+            </line>
+            <line>
+              <![CDATA[....... Title got verified .........]]>
+            </line>
+            <line>
+              <![CDATA[......... Logged in successfully ..........]]>
+            </line>
+            <line>
+              <![CDATA[ <a  href =  " C:\Users\HP\eclipse-workspace\saucelabdemo\screenshot\verify_page_url.png " > link </a> ]]>
+            </line>
+            <line>
+              <![CDATA[ getproductName function() ......]]>
+            </line>
+            <line>
+              <![CDATA[ <a  href =  " C:\Users\HP\eclipse-workspace\saucelabdemo\screenshot\addtocart.png " > link </a> ]]>
+            </line>
+            <line>
+              <![CDATA[ product got added to cart ......]]>
+            </line>
+            <line>
+              <![CDATA[..... Clicked on shopping cart .....]]>
+            </line>
+            <line>
+              <![CDATA[ <a  href =  " C:\Users\HP\eclipse-workspace\saucelabdemo\screenshot\ShoppingCart.png " > link </a> ]]>
+            </line>
+            <line>
+              <![CDATA[ getproductName function() ......]]>
+            </line>
+            <line>
+              <![CDATA[.... name got matched ..... ]]>
+            </line>
+            <line>
+              <![CDATA[ <a  href =  " C:\Users\HP\eclipse-workspace\saucelabdemo\screenshot\verifyProductName.png " > link </a> ]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on checkout]]>
+            </line>
+            <line>
+              <![CDATA[ <a  href =  " C:\Users\HP\eclipse-workspace\saucelabdemo\screenshot\clickCheckOut.png " > link </a> ]]>
+            </line>
+            <line>
+              <![CDATA[ ..... user is in checkout page .....]]>
+            </line>
+            <line>
+              <![CDATA[ <a  href =  " C:\Users\HP\eclipse-workspace\saucelabdemo\screenshot\verifyCheckOutPage.png " > link </a> ]]>
+            </line>
+            <line>
+              <![CDATA[ ..... user added checkoutdetails .....]]>
+            </line>
+            <line>
+              <![CDATA[ <a  href =  " C:\Users\HP\eclipse-workspace\saucelabdemo\screenshot\addCheckOutDetails.png " > link </a> ]]>
+            </line>
+            <line>
+              <![CDATA[ ..... user Clicked Continue .....]]>
+            </line>
+            <line>
+              <![CDATA[ <a  href =  " C:\Users\HP\eclipse-workspace\saucelabdemo\screenshot\clickContinue.png " > link </a> ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test_user_03 -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.saucelab.qa.testclass.TestClass@74d1dc36]" started-at="2023-09-03T21:22:51 IST" name="closeBrowser" finished-at="2023-09-03T21:22:52 IST" duration-ms="1007" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.saucelab.qa.testclass.TestClass -->
+    </test> <!-- multiple_browser -->
+  </suite> <!-- Suite -->
+</testng-results>
