@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Testing parameter(failed)">
+    <parameter name="browser_flag" value="edge"/>
+    <parameter name="url" value="https://www.flipkart.com/"/>
+    <classes>
+      <class name="com.flipkart.qa.testclass.TestClass">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="browserset"/>
+          <include name="test001"/>
+        </methods>
+      </class> <!-- com.flipkart.qa.testclass.TestClass -->
+    </classes>
+  </test> <!-- Testing parameter(failed) -->
+</suite> <!-- Failed suite [Suite] -->

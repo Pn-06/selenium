@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[........ flipkart url loaded successful ........]]>
+    </line>
+    <line>
+      <![CDATA[.... user clicked on appliances ....]]>
+    </line>
+    <line>
+      <![CDATA[<a href = "   C:\Users\pinayak\eclipse-workspace\flipkart\screenshots\appliances.png  "> Link </a>]]>
+    </line>
+    <line>
+      <![CDATA[.... user is not in appliances page ....]]>
+    </line>
+    <line>
+      <![CDATA[.... product Clicked ....]]>
+    </line>
+    <line>
+      <![CDATA[<a href = "   C:\Users\pinayak\eclipse-workspace\flipkart\screenshots\product.png  "> Link </a>]]>
+    </line>
+    <line>
+      <![CDATA[.... item Clicked ....]]>
+    </line>
+    <line>
+      <![CDATA[<a href = "   C:\Users\pinayak\eclipse-workspace\flipkart\screenshots\item.png  "> Link </a>]]>
+    </line>
+    <line>
+      <![CDATA[.... buy now Clicked ....]]>
+    </line>
+    <line>
+      <![CDATA[<a href = "   C:\Users\pinayak\eclipse-workspace\flipkart\screenshots\buynow.png  "> Link </a>]]>
+    </line>
+    <line>
+      <![CDATA[...loginsignuppage....]]>
+    </line>
+    <line>
+      <![CDATA[<a href = "   C:\Users\pinayak\eclipse-workspace\flipkart\screenshots\loginsignuppage.png  "> Link </a>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-09-24T14:44:13 IST" name="Suite" finished-at="2023-09-24T14:44:35 IST" duration-ms="22193">
+    <groups>
+    </groups>
+    <test started-at="2023-09-24T14:44:13 IST" name="Test" finished-at="2023-09-24T14:44:13 IST" duration-ms="20">
+    </test> <!-- Test -->
+    <test started-at="2023-09-24T14:44:13 IST" name="Testing parameter" finished-at="2023-09-24T14:44:35 IST" duration-ms="22057">
+      <class name="com.flipkart.qa.testclass.TestClass">
+        <test-method is-config="true" signature="browserset(java.lang.String,java.lang.String)[pri:0, instance:com.flipkart.qa.testclass.TestClass@1349883]" started-at="2023-09-24T14:44:13 IST" name="browserset" finished-at="2023-09-24T14:44:23 IST" duration-ms="9713" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.flipkart.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[........ flipkart url loaded successful ........]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserset -->
+        <test-method signature="test001()[pri:0, instance:com.flipkart.qa.testclass.TestClass@1349883]" started-at="2023-09-24T14:44:23 IST" name="test001" finished-at="2023-09-24T14:44:35 IST" duration-ms="11738" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[.... user clicked on appliances ....]]>
+            </line>
+            <line>
+              <![CDATA[<a href = "   C:\Users\pinayak\eclipse-workspace\flipkart\screenshots\appliances.png  "> Link </a>]]>
+            </line>
+            <line>
+              <![CDATA[.... user is not in appliances page ....]]>
+            </line>
+            <line>
+              <![CDATA[.... product Clicked ....]]>
+            </line>
+            <line>
+              <![CDATA[<a href = "   C:\Users\pinayak\eclipse-workspace\flipkart\screenshots\product.png  "> Link </a>]]>
+            </line>
+            <line>
+              <![CDATA[.... item Clicked ....]]>
+            </line>
+            <line>
+              <![CDATA[<a href = "   C:\Users\pinayak\eclipse-workspace\flipkart\screenshots\item.png  "> Link </a>]]>
+            </line>
+            <line>
+              <![CDATA[.... buy now Clicked ....]]>
+            </line>
+            <line>
+              <![CDATA[<a href = "   C:\Users\pinayak\eclipse-workspace\flipkart\screenshots\buynow.png  "> Link </a>]]>
+            </line>
+            <line>
+              <![CDATA[...loginsignuppage....]]>
+            </line>
+            <line>
+              <![CDATA[<a href = "   C:\Users\pinayak\eclipse-workspace\flipkart\screenshots\loginsignuppage.png  "> Link </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test001 -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.flipkart.qa.testclass.TestClass@1349883]" started-at="2023-09-24T14:44:35 IST" name="closeBrowser" finished-at="2023-09-24T14:44:35 IST" duration-ms="555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.flipkart.qa.testclass.TestClass -->
+    </test> <!-- Testing parameter -->
+  </suite> <!-- Suite -->
+</testng-results>
